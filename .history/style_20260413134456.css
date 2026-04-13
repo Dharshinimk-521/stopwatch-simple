@@ -1,0 +1,19 @@
+body{
+    background-color: #2f4f4f;
+    color:white;
+}
+.title{
+    text-decoration: double;
+    text-align: center;
+    color:black;
+    font-family: 'Share Tech', sans-serif;
+    font-size: 40px;
+}
+p{  
+    text-align: center;
+    ;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+
+}

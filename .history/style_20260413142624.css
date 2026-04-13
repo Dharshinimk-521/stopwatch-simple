@@ -1,0 +1,52 @@
+body{
+    background-color: #2f4f4f;
+    color:white;
+    text-align: center;
+}
+.title{
+    text-decoration: double;
+    text-align: center;
+    color:black;
+    font-family: 'Share Tech', sans-serif;
+    font-size: 40px;
+}
+p{  
+    text-align: center;
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+
+}
+#time{
+    text-align: center;
+    font-size: 80px;
+    margin: 5px;
+    background-color: black;
+    padding: 10px;
+}
+#start{
+    padding:10px;
+    margin: 20px 10px;
+    cursor: pointer;
+    font-size: 20px;
+    color:white;
+    background-color: black;
+}
+#stop{
+    padding:10px;
+    margin: 20px 10px;
+    cursor: pointer;
+    font-size: 20px;
+    color:white;
+    background-color: black;
+
+}
+#reset{
+    padding:10px;
+    margin: 20px 10px;
+    cursor: pointer;
+    font-size: 20px;
+    color:white;
+    background-color: black;
+
+}
